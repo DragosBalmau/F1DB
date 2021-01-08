@@ -1,0 +1,20 @@
+.middle-container {
+    background: rgba(98, 98, 98, 0.7);
+    vertical-align: middle;
+    margin-top: 300px;
+}
+
+.title-middle-container,
+.text-middle-container {
+    color: black;
+}
+
+.navbar {
+    background-color: rgba(255, 6, 0, 1);
+    color: black;
+}
+
+.container-fluid {
+    margin-right: 0px;
+    padding-right: 0px;
+}
